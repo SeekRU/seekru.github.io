@@ -1,0 +1,1 @@
+import{m as l,k as o,e as a,p,f as r}from"./entry.6a224565.js";const s=["placeholder"],d=l({__name:"UiInput",props:{placeholder:{}},setup(t){return(e,n)=>(o(),a("label",null,[p(e.$slots,"default"),r("input",{placeholder:e.placeholder,class:"rounded-2xl px-8 w-full text-black bg-[#C2D4EB] py-x h-[57px]"},null,8,s)]))}});export{d as _};
